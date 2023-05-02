@@ -10,16 +10,13 @@ Player
 - Record/Update Player Score
 
 
-
-Questions
-- Define Questions and answers
-=> Generate random math operations
-=> Get user input
-=> Check for write answer
-
 Game
 - Define player's turn
 - Define beginning of match
 - Define end of match
 - Define winner
-
+- Questions
+=> Define Questions and answers
+=> Generate random math operations
+=> Get user input
+=> Check for write answer
