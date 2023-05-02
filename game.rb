@@ -27,7 +27,6 @@ class Game
         winner
         return false
       end
-
     end  
   end
 
